@@ -4,3 +4,6 @@ The name of this project is making fun of [會計妹® @ 會計報稅 、 商標
 
 ### Notes
 - http://localhost:5000/weatherforecast
+
+### Reference
+- [hledger/examples at master · simonmichael/hledger](https://github.com/simonmichael/hledger/tree/master/examples)
